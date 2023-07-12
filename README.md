@@ -12,6 +12,7 @@
 Le projet Booki d'OpenClassrooms consiste à transformer une maquette en site web en utilisant HTML et CSS.
 
 L'objectif est de créer une version fonctionnelle et esthétique du design fourni, en respectant les principes de l'intégration web.
+En version desktop mais également en responsive.
 
 Le projet implique la découpe et la structuration des éléments de la maquette en utilisant HTML pour créer la structure de la page, puis l'application des styles visuels à l'aide de CSS pour obtenir le rendu final.
 
