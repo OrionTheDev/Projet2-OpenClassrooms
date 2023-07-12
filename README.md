@@ -20,12 +20,6 @@ Cela respecte les demandes du projet.
 
 
 
-## 🙇 Acknowledgements      
-- [Awesome README]()
-- [GitHub Emoji Cheat Sheet]()
-- [GitHub Markdown Emoji]()
-        
-
 ## 🙇 Auteur
 #### Cyril H.
 - Twitter: [@Orion_The_Dev](https://twitter.com/Orion_The_Dev)
